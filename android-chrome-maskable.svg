@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#020617"/>
+  <g transform="scale(0.7) translate(110, 110)">
+    <defs>
+      <linearGradient id="fullRainbow" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#FF5E5E;stop-opacity:1" />
+        <stop offset="15%" style="stop-color:#FFA25C;stop-opacity:1" />
+        <stop offset="30%" style="stop-color:#FFD95C;stop-opacity:1" />
+        <stop offset="45%" style="stop-color:#5EFF8B;stop-opacity:1" />
+        <stop offset="60%" style="stop-color:#5EB1FF;stop-opacity:1" />
+        <stop offset="75%" style="stop-color:#7A5EFF;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#D95EFF;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <circle cx="256" cy="360" r="72" fill="url(#fullRainbow)"/>
+    <path d="M126 360C126 288.203 184.203 230 256 230C327.797 230 386 288.203 386 360" stroke="url(#fullRainbow)" stroke-width="44" stroke-linecap="round"/>
+    <path d="M56 360C56 249.543 145.543 160 256 160C366.457 160 456 249.543 456 360" stroke="url(#fullRainbow)" stroke-width="44" stroke-linecap="round"/>
+  </g>
+</svg>
